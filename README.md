@@ -9,7 +9,6 @@
 <h2 align="center">
  <a href="#Status">Status</a> •
  <a href="#Features">Features</a> •
- <a href="#Repositório-Online">Repositório Online</a> •  
  <a href="#Screenshots">Screenshots</a> • 
  <a href="#Pré-requisitos">Pré-requisitos</a> • 
  <a href="#Rodando-a-aplicação">Rodando a aplicação</a> • 
